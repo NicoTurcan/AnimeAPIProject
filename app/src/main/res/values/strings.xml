@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Anime API Project</string>
+    <string name="search_for_an_anime">Search for an anime!</string>
+</resources>
